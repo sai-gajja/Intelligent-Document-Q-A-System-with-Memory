@@ -1,0 +1,22 @@
+
+    ARTIFICIAL INTELLIGENCE OVERVIEW
+
+    Artificial Intelligence (AI) refers to the simulation of human intelligence in machines. 
+    These machines are programmed to think like humans and mimic their actions. 
+    
+    Key aspects of AI include:
+    - Machine Learning: Systems that learn from data
+    - Natural Language Processing: Understanding human language
+    - Computer Vision: Interpreting visual information
+    - Robotics: Physical systems that perform tasks
+    
+    MACHINE LEARNING
+
+    Machine Learning is a subset of AI that focuses on algorithms that can learn from data.
+    There are three main types of machine learning:
+    1. Supervised Learning: Learning from labeled data
+    2. Unsupervised Learning: Finding patterns in unlabeled data
+    3. Reinforcement Learning: Learning through trial and error
+    
+    This document provides a basic overview of artificial intelligence concepts.
+    
